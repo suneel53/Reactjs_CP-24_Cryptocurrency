@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.item-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logoandtitle-cont {
+  display: flex;
+  align-items: center;
+}
+.currency-logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+}
+.currency-name {
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+}
+.usd-and-euro-values-cont {
+  display: flex;
+  align-items: center;
+}
+
+.currency-value {
+  text-align: right;
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  width: 72px;
+  margin-left: 48px;
+}

@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.CryptocurrencyTracker-main-cont {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
